@@ -1,6 +1,1 @@
-# 0x12. Web stack debugging #2
-## Tasks
-### 
-0. Run software as another user
-1. Run Nginx as Nginx 
-
+# 0x08. Networking basics #1

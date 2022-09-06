@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-# Show the name of user passed as parameter
-sudo -u "$1" whoami
